@@ -1,6 +1,9 @@
 def new_fcn():
     pass
 
+def new_fcn2():
+    pass
+
 def convert_temp(value,unit_from,unit_to):
     if unit_from=="C" and unit_to=="F":
         value=(value * 9/5) + 32
